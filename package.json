@@ -1,0 +1,19 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OtavioHemckmeier/js-tdd-course.git"
+  },
+  "author": "otavio <otavio@conectra.net.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OtavioHemckmeier/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/OtavioHemckmeier/js-tdd-course#readme"
+}
