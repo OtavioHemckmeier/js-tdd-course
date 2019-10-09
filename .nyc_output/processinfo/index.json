@@ -1,0 +1,1 @@
+{"processes":{"a021bbd0-9d30-4729-b92e-8740cef0ad45":{"parent":"d2faf691-0d64-42ca-ac93-7bf53cc4aa2d","children":[]},"d2faf691-0d64-42ca-ac93-7bf53cc4aa2d":{"parent":null,"children":["a021bbd0-9d30-4729-b92e-8740cef0ad45"]}},"files":{"/home/otavio/Projetos/Cursos e Exercícios/js-tdd/teste/main.spec.js":["a021bbd0-9d30-4729-b92e-8740cef0ad45"]},"externalIds":{}}
